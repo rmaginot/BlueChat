@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\build\\intermediates\\res\\merged\\release\\menu\\bluetooth_chat.xml",
+        "source": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

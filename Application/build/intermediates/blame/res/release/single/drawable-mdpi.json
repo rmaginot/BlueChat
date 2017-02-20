@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\DEV\\Java\\Android\\Application\\BlueChat\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-gridlayout-v7-25.0.1_1514f5066abdef82c1ee925f8105e8b60503e6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.1_5c58894f667a3e7901c07ffe106d095861d891b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.1_ba8d21c029d427cce8bb7a82b60ce4e1b363d5ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\internal_impl-25.0.1_2e8eac5c7f303e9cf4dcd77af0e131a1ad29fc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.1_cdaeb6769dac9f4ed28bda6e9fe9e6b19fa5aefb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.1_dddeee5794d949e0acd1347073b12f95781d1afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.1_c181382203475efd3310baef51e6a7c12a5016b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.1_90ac9631075dbe3674071add147f2116d326998e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.1_f0cd21169c8911b3f5da73f2f623518b08d92a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\internal_impl-25.0.1_3666af7cc6eb2238813c133ba256003232c84c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\internal_impl-25.0.1_7e083c05a99b33850b40b2f4f9a3c4465b8e7840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.0.1_da221dbaed83babe1c3f7907a4aa61b387e934db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.1_0b9c79bdd1a3504ed63392d6934262f38f7d30db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\internal_impl-25.0.1_d78201eb3e7516821a3a5d5706cb41e354be3a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\support-annotations-25.0.1_20de65e241e919dae78063c278244a49b89e03fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.1_0c2c435e3805332b1ee4c4dd842a74b87f72f1e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\DEV\Java\Android\Application\BlueChat\Application\build\intermediates\pre-dexed\release\internal_impl-25.0.1_555f943269c3ce0247399e7c3b56a94b814d09f7.jar" />
+    </item>
+
+</items>
